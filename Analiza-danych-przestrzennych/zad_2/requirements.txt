@@ -1,0 +1,8 @@
+geopandas>=1.0
+rasterio
+matplotlib
+mapclassify
+folium
+jupyter
+streamlit
+streamlit-folium
